@@ -1,0 +1,21 @@
+account_id,date,merchant,amount,currency,category,status
+acct-001,2026-05-01,Starbucks,$5.20,USD,Food,posted
+acct-002,2026-05-01,Amazon,$120.00,USD,Shopping,posted
+acct-003,2026-05-02,Uber,$15.60,USD,Transport,posted
+acct-004,2026-05-03,Delta Airlines,$420.00,USD,Travel,posted
+acct-005,2026-05-03,Shell,$48.90,USD,Transport,posted
+acct-006,2026-05-04,AT&T,$88.40,USD,Utilities,posted
+acct-007,2026-05-05,Walmart,$210.99,USD,Shopping,posted
+acct-008,2026-05-06,McDonald's,$9.75,USD,Food,posted
+acct-009,2026-05-06,Netflix,$15.99,USD,Entertainment,posted
+acct-010,2026-05-07,Spotify,$11.99,USD,Entertainment,posted
+acct-011,2026-05-07,Starbucks,$5.20,USD,Food,posted
+acct-012,2026-05-08,Whole Foods,$74.25,USD,Food,posted
+acct-013,2026-05-09,Budget Rental,$295.00,USD,Travel,posted
+acct-014,2026-05-10,Gas Station,$55.10,USD,Transport,posted
+acct-015,2026-05-10,Best Buy,$320.70,USD,Shopping,posted
+acct-016,2026-05-11,Wells Fargo ATM,$200.00,USD,Cash Withdrawal,posted
+acct-017,2026-05-12,Home Depot,$146.30,USD,Shopping,posted
+acct-018,2026-05-13,Domino's Pizza,$24.50,USD,Food,posted
+acct-019,2026-05-14,American Airlines,$610.40,USD,Travel,posted
+acct-020,2026-05-15,City Bus,$2.75,USD,Transport,posted
